@@ -1,0 +1,1 @@
+Gngeo is a portable NeoGeo emulator for Linux.

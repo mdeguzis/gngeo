@@ -1,0 +1,13 @@
+Source: gngeo
+Section: games
+Priority: optional
+Maintainer: SteamOS-Tools Signing Key <mdeguzis@gmail.com>
+Build-Depends: debhelper (>= 9),
+ libsdl1.2-dev
+Standards-Version: 3.9.5
+Homepage: https://github.com/ProfessorKaos64/gngeo
+
+Package: gngeo
+Architecture: all
+Depends: ${misc:Depends},
+Description: A NeoGeo emulator for linux (and maybe some other unix)
